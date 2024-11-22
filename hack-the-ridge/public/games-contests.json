@@ -1,0 +1,26 @@
+{
+  "gamesContests": [
+    { 
+      "title": "Coding Challenge", 
+      "time": "15:00", 
+      "duration": 120, 
+      "tags": ["Programming", "Competition"],
+      "location": "Main Hall"
+    },
+    { 
+      "title": "Hackathon Trivia", 
+      "time": "15:30", 
+      "duration": 60, 
+      "tags": ["Trivia", "Fun"],
+      "location": "Lounge Area"
+    },
+    { 
+      "title": "Tech Scavenger Hunt", 
+      "time": "17:00", 
+      "duration": 90, 
+      "tags": ["Interactive", "Team Building"],
+      "location": "Entire Venue"
+    }
+  ]
+}
+

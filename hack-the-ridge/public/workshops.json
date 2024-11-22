@@ -1,0 +1,29 @@
+{
+  "workshops": [
+    { 
+      "title": "Intro to React", 
+      "time": "11:30", 
+      "duration": 60, 
+      "tags": ["Frontend", "JavaScript", "Beginner"],
+      "joinUrl": "https://example.com/join/react",
+      "location": "Room A101"
+    },
+    { 
+      "title": "API Integration", 
+      "time": "14:00", 
+      "duration": 45, 
+      "tags": ["Backend", "API", "Intermediate"],
+      "joinUrl": "https://example.com/join/api",
+      "location": "Room B202"
+    },
+    { 
+      "title": "UI/UX Design Principles", 
+      "time": "16:00", 
+      "duration": 90, 
+      "tags": ["Design", "UX", "All Levels"],
+      "joinUrl": "https://example.com/join/uxui",
+      "location": "Room C303"
+    }
+  ]
+}
+
