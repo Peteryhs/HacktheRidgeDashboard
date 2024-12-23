@@ -1,0 +1,18 @@
+{
+  "schedule": [
+    { "time": "09:00", "event": "Registration & Check-in", "type": "major", "location": "Main Entrance" },
+    { "time": "10:00", "event": "Opening Ceremony", "type": "major", "location": "Main Hall" },
+    { "time": "11:00", "event": "Hacking Begins", "type": "major", "location": "All Rooms" },
+    { "time": "11:30", "event": "Intro to React Workshop", "type": "workshop", "location": "Room A101" },
+    { "time": "13:00", "event": "Lunch Break", "type": "major", "location": "Cafeteria" },
+    { "time": "14:00", "event": "API Integration Workshop", "type": "workshop", "location": "Room B202" },
+    { "time": "15:00", "event": "Coding Challenge", "type": "game", "location": "Main Hall" },
+    { "time": "16:00", "event": "UI/UX Design Principles Workshop", "type": "workshop", "location": "Room C303" },
+    { "time": "17:00", "event": "Tech Scavenger Hunt", "type": "game", "location": "Entire Venue" },
+    { "time": "18:00", "event": "Dinner", "type": "major", "location": "Cafeteria" },
+    { "time": "19:00", "event": "Submission Deadline", "type": "major", "location": "Online Platform" },
+    { "time": "20:00", "event": "Project Presentations", "type": "major", "location": "Main Hall" },
+    { "time": "22:00", "event": "Awards Ceremony", "type": "major", "location": "Main Hall" }
+  ]
+}
+
