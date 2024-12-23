@@ -1,8 +1,0 @@
-{
-  "announcements": [
-    { "id": 1, "message": "Welcome to Hack the Ridge!", "severity": "green" },
-    { "id": 2, "message": "Reminder: Submission deadline is at 7 PM", "severity": "yellow" },
-    { "id": 3, "message": "Emergency: Fire drill at 3 PM", "severity": "red" }
-  ]
-}
-
